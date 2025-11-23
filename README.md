@@ -1,5 +1,9 @@
 # 🌌 Milky Way Dark Matter Visualization
 
+[![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-yellow.svg)](https://www.javascript.com/) [![GitHub stars](https://img.shields.io/github/stars/yksanjo/milky-way-visualization?style=social)](https://github.com/yksanjo/milky-way-visualization/stargazers) [![GitHub forks](https://img.shields.io/github/forks/yksanjo/milky-way-visualization.svg)](https://github.com/yksanjo/milky-way-visualization/network/members) [![GitHub issues](https://img.shields.io/github/issues/yksanjo/milky-way-visualization.svg)](https://github.com/yksanjo/milky-way-visualization/issues)
+[![Last commit](https://img.shields.io/github/last-commit/yksanjo/milky-way-visualization.svg)](https://github.com/yksanjo/milky-way-visualization/commits/main)
+
+
 A stunning 3D visualization of the Milky Way galaxy traveling through dark matter and gravitational wave fields, created with React and Three.js.
 
 ## ✨ Features
